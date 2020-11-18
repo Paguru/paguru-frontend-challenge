@@ -14,7 +14,7 @@ Precisamos de um plataforma de comunicação organizacional interna, onde o usu�
 
 #### Você deve clonar esse repositório, abrir uma branch com seu usuário do github e ao final do desenvolvimento submeter um pull request para avaliarmos o código.
 
-##### :fa-exclamation-triangle: Atenção: A API será utilizada por todos os candidatos, esperamos bom senso no cadastro de informações.
+##### Atenção: A API será utilizada por todos os candidatos, esperamos bom senso no cadastro de informações.
 
 #### Requisitos
 - Login e logout
