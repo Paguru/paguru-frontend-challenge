@@ -1,6 +1,6 @@
 # Desafio Frontend - Paguru
 
--- Bem vindo ao desafio Paguru
+Bem vindo ao desafio Paguru
 Se você chegou até aqui está bem perto de fazer parte do nosso time, desde já é honra tê-lo participando de nossa seleção. Boa sorte.
 
 ------------
