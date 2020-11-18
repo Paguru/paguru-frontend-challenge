@@ -16,6 +16,12 @@ Precisamos de um plataforma de comunicação organizacional interna, onde o usu�
 
 ##### Atenção: A API será utilizada por todos os candidatos, esperamos bom senso no cadastro de informações.
 
+#### Tecnologias indicadas
+- Vuejs
+- Reactjs
+- React Native
+- Flutter
+
 #### Requisitos
 - Login e logout
 - Registro de conta
