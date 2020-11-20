@@ -44,12 +44,12 @@ Precisamos de um plataforma de comunicação organizacional interna, onde o usu�
 
 | VERBO  | URL  | DESCRIÇÃO  |
 | ------------ | ------------ | ------------ |
-| POST  |https://paguru-challenge.herokuapp.com/api/v1/users/  | Registro de usuário. Parâmetros: {"username": "nomedeusuario", "password": "senha123", "email": "email@email.com"}  |
-| POST  |https://paguru-challenge.herokuapp.com/api/v1/auth/  | Login de todos os usuário. Parâmetros: {"username": "nomedeusuario", "password": "senha123"}  |
+| POST  |https://paguru-challenge.herokuapp.com/api/v1/users/  | Registro de usuário. Parâmetros: ```{"username": "nomedeusuario", "password": "senha123", "email": "email@email.com"}```  |
+| POST  |https://paguru-challenge.herokuapp.com/api/v1/auth/  | Login de todos os usuário. Parâmetros: ```{"username": "nomedeusuario", "password": "senha123"}```  |
 | GET  | https://paguru-challenge.herokuapp.com/api/v1/users/   | Listagem de usuários  |
 | GET  | https://paguru-challenge.herokuapp.com/api/v1/users/{id}/   | Detalhe de usuários com seus posts |
 | GET  | https://paguru-challenge.herokuapp.com/api/v1/posts/  | Listagem de todos os posts  |
-| POST  | https://paguru-challenge.herokuapp.com/api/v1/posts/  | Cadastro de post do usuário autenticado. Parâmetros: {"content": "conteudo do post"}  |
-| PUT  | https://paguru-challenge.herokuapp.com/api/v1/posts/{id}/  | Edição de post do usuário autenticado. Parâmetros: {"content": "conteudo do post"}  |
+| POST  | https://paguru-challenge.herokuapp.com/api/v1/posts/  | Cadastro de post do usuário autenticado. Parâmetros: ```{"content": "conteudo do post"}```  |
+| PUT  | https://paguru-challenge.herokuapp.com/api/v1/posts/{id}/  | Edição de post do usuário autenticado. Parâmetros: ```{"content": "conteudo do post"}```  |
 | DELETE  | https://paguru-challenge.herokuapp.com/api/v1/posts/{id}/   | Exclusão de post do usuário autenticado  |
 
